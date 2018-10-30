@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "module": "es2015",
+        "lib": [
+            "dom",
+            "es2015"
+        ],
+        "moduleResolution": "node",
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "downlevelIteration": true,
+        "target": "ES5",
+        "importHelpers": true,
+        "noImplicitThis": true,
+        "experimentalDecorators": true,
+        "allowSyntheticDefaultImports": true,
+        "sourceMap": true,
+        "baseUrl": "."
+    }
+}
